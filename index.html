@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <meta http-equiv="X-UA-Compatible" content="ie=edge">
+   <link rel="shortcut icon" href="https://www.bork.ru/favicon.ico" type="image/x-icon">
+   <link rel="stylesheet" href="build/css/style.css">
+   <title>BORK | Форма авторизации</title>
+</head>
+<body>
+
+	<main>
+		<section>
+
+				<header>
+					<a href="" class="icon">
+						<span class="icon__item"></span>
+						<span class="icon__text">вернуться</span>
+					</a>
+				</header>
+				
+				<article>
+					<form class="form" name="form" action="" method="">
+						
+						<div class="form__item">
+							<img src="build/img/maxresdefault.png" alt="placeholder+image">
+						</div>
+						<div class="form__item">
+							<input class="form__input input__phone" type="text" name="phone" id="input_phone" value="" required placeholder="Номер телефона" pattern="^\d{1} \(\d{3}\) \d{3}-\d{2}-\d{2}$" maxlength="18" title="Формат телефона 8 (888) 888-88-88" />
+						</div>
+						<div class="form__item">
+							<input class="form__input input__password" type="password" name="password" id="input_password" value="" required placeholder="Пароль" pattern="[A-Za-z]{5,}" maxlength="18" title="Латинские буквы, минимальная длинна 5." />
+						</div>
+
+						<div class="form__item">
+							<div class="form__group">
+								<label class="form-group__checkbox">
+									<input class="checkbox__input" type="checkbox" />
+									<div class="checkbox__dot"></div>
+								</label>
+								<span class="form-group__super">Запомнить</span>
+							</div>
+							<div class="form__group">
+								<label class="form-group__password">
+									<a href="" class="form-group__super">Забыли пароль?</a>
+								</label>
+							</div>
+						</div>
+
+						<div class="form__item">
+							<input class="form__input input__button" type="submit" value="Войти"/>
+						</div>
+
+					</form>
+				</article>
+
+		</section>
+	</main>
+
+   <script src="build/js/script.js"></script>
+</body>
+</html>
