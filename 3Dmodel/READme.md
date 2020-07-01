@@ -1,3 +1,4 @@
-# модельки тест
+# Модельки тест
 
-https://codepen.io/Vilyaca/pen/VwerEEN
+### Codepen
+<a href="https://codepen.io/Vilyaca/pen/VwerEEN">3d test FBX three.js</a>
