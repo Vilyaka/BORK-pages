@@ -1,55 +1,0 @@
-Kaydara FBX Binary  èÓFBXHeaderExtension\FBXHeaderVersionIëx
-FBXVersionIè˜EncryptionTypeICreationTimeStampÏVersionIèåYearIãüMonthIDayI'HourI?MinuteI.WSecondI tMillisecondI×¾)CreatorS$FBX SDK/FBX Plugins version 2018.1.1Æ'	SceneInfoSGlobalInfoSceneInfoSUserData
-TypeSUserData2VersionIdMetaData`VersionIdwTitleSSubjectS¨AuthorSÂKeywordsSÜRevisionSõCommentS¹Properties70óÊPSDocumentUrlSKStringSUrlSSœD:\Ð´Ð°Ð½Ð½Ñ‹Ðµ ÐœÐ°Ñ€ÐºÐ¾Ð²Ð¸Ð½-new\Ñ€Ð°Ð±Ð¾Ñ‚Ð°\Ð¼ÐµÐ±ÐµÐ»ÑŒ Ð 9\P9 3D planner App\Ð¼Ð¾Ð´ÐµÐ»Ð¸ 3D Holex RUS\objects HolexRUS pCon\933410 5A 1500 3540.fbxÎÍPSSrcDocumentUrlSKStringSUrlSSœD:\Ð´Ð°Ð½Ð½Ñ‹Ðµ ÐœÐ°Ñ€ÐºÐ¾Ð²Ð¸Ð½-new\Ñ€Ð°Ð±Ð¾Ñ‚Ð°\Ð¼ÐµÐ±ÐµÐ»ÑŒ Ð 9\P9 3D planner App\Ð¼Ð¾Ð´ÐµÐ»Ð¸ 3D Holex RUS\objects HolexRUS pCon\933410 5A 1500 3540.fbx$PSOriginalSCompoundSSH:PSOriginal|ApplicationVendorSKStringSSSŽ8PSOriginal|ApplicationNameSKStringSSS×;PSOriginal|ApplicationVersionSKStringSSS6PSOriginal|DateTime_GMTSDateTimeSSSZ1PSOriginal|FileNameSKStringSSS%PS	LastSavedSCompoundSSÖ;PSLastSaved|ApplicationVendorSKStringSSS9PSLastSaved|ApplicationNameSKStringSSSg<�PSLastSaved|ApplicationVersionSKStringSSS¬7PSLastSaved|DateTime_GMTSDateTimeSSSûFileIdR+²+ã¾*ÀÆ¼É²!¤/ü÷0CreationTimeS2019-08-29 16:46:32:727|8CreatorS3FBX SDK/FBX Plugins version 2018.1.1 build=20170505á
-GlobalSettings°VersionIèÔ
-Properties70	)PSUpAxisSintSIntegerSI;	-PS
-UpAxisSignSintSIntegerSIu	,PS	FrontAxisSintSIntegerSI³	0PS
-FrontAxisSignSintSIntegerSIí	,PS	CoordAxisSintSIntegerSI+
-0PS
-CoordAxisSignSintSIntegerSIj
-1PSOriginalUpAxisSintSIntegerSIÿÿÿÿ­
-5PSOriginalUpAxisSignSintSIntegerSIó
-8PSUnitScaleFactorSdoubleSNumberSDð?A@PSOriginalUnitScaleFactorSdoubleSNumberSDð?—HPSAmbientColorSColorRGBSColorSDð?Dð?Dð?æAPS
-DefaultCameraSKStringSSSProducer Perspective%PSTimeModeSenumSSIP)PSTimeProtocolSenumSSIŠ,PSSnapOnFrameModeSenumSSIË3PS
-TimeSpanStartSKTimeSTimeSL
-2PSTimeSpanStopSKTimeSTimeSL°×èÀ
-Q
-8PSCustomFrameRateSdoubleSNumberSDð¿…
-&PS
-TimeMarkerSCompoundSSÇ
-4PSCurrentTimeMarkerSintSIntegerSIÿÿÿÿ	DocumentsCountI	 DocumentL /VSFbxSceneSSceneÞProperties70&PSSourceObjectSobjectSSÑ3PSActiveAnimStackNameSKStringSSSü	RootNodeL:
-ReferencesÈ,DefinitionskVersionId‚CountI0Ð
-ObjectTypeSGlobalSettingsÃCountIs#
-
-ObjectTypeSModelCountIf#PropertyTemplateSFbxNodeY#Properties70Š2PSQuaternionInterpolateSenumSSIãKPSRotationOffsetSVector3DSVectorSDDD;JPS
-RotationPivotSVector3DSVectorSDDD“JPS
-ScalingOffsetSVector3DSVectorSDDDêIPSScalingPivotSVector3DSVectorSDDD&.PSTranslationActiveSboolSSIKPSTranslationMinSVector3DSVectorSDDDØKPSTranslationMaxSVector3DSVectorSDDD,PSTranslationMinXSboolSSIL,PSTranslationMinYSboolSSI†,PSTranslationMinZSboolSSIÀ,PSTranslationMaxXSboolSSIú,PSTranslationMaxYSboolSSI4,PSTranslationMaxZSboolSSIl*PS
-RotationOrderSenumSSI°6PSRotationSpaceForLimitOnlySboolSSIù;PSRotationStiffnessXSdoubleSNumberSDB;PSRotationStiffnessYSdoubleSNumberSD‹;PSRotationStiffnessZSdoubleSNumberSDÉ0PSAxisLenSdoubleSNumberSD$@HPSPreRotationSVector3DSVectorSDDDvIPSPostRotationSVector3DSVectorSDDD¯+PSRotationActiveSboolSSIHPSRotationMinSVector3DSVectorSDDD[HPSRotationMaxSVector3DSVectorSDDD’)PSRotationMinXSboolSSIÉ)PSRotationMinYSboolSSI)PSRotationMinZSboolSSI7)PSRotationMaxXSboolSSIn)PSRotationMaxYSboolSSI¥)PSRotationMaxZSboolSSIÛ(PSInheritTypeSenumSSI*PS
-ScalingActiveSboolSSIhGPS
-ScalingMinSVector3DSVectorSDDD½GPS
-ScalingMaxSVector3DSVectorSDð?Dð?Dð?ó(PSScalingMinXSboolSSI)(PSScalingMinYSboolSSI_(PSScalingMinZSboolSSI•(PSScalingMaxXSboolSSIË(PSScalingMaxYSboolSSI(PSScalingMaxZSboolSSI`QPSGeometricTranslationSVector3DSVectorSDDD¼NPSGeometricRotationSVector3DSVectorSDDDMPSGeometricScalingSVector3DSVectorSDð?Dð?Dð?[6PS
-MinDampRangeXSdoubleSNumberSDŸ6PS
-MinDampRangeYSdoubleSNumberSDã6PS
-MinDampRangeZSdoubleSNumberSD'6PS
-MaxDampRangeXSdoubleSNumberSDk6PS
-MaxDampRangeYSdoubleSNumberSD¯6PS
-MaxDampRangeZSdoubleSNumberSDö9PSMinDampStrengthXSdoubleSNumberSD=9PSMinDampStrengthYSdoubleSNumberSD„9PSMinDampStrengthZSdoubleSNumberSDË9PSMaxDampStrengthXSdoubleSNumberSD9PSMaxDampStrengthYSdoubleSNumberSDY9PSMaxDampStrengthZSdoubleSNumberSDž7PSPreferedAngleXSdoubleSNumberSDã7PSPreferedAngleYSdoubleSNumberSD( 7PSPreferedAngleZSdoubleSNumberSD^ (PSLookAtPropertySobjectSS– *PSUpVectorPropertySobjectSSÅ !PSShowSboolSSI!8PSNegativePercentShapeSupportSboolSSIQ!8PSDefaultAttributeIndexSintSIntegerSIÿÿÿÿ‚!#PSFreezeSboolSSI³!#PSLODBoxSboolSSI"NPSLcl TranslationSLcl TranslationSSADDDe"HPSLcl RotationSLcl RotationSSADDD¹"FPSLcl ScalingSLcl ScalingSSADð?Dð?Dð?ù"2PS
-VisibilityS
-VisibilitySSADð?L#EPSVisibility InheritanceSVisibility InheritanceSSIu*
-
-ObjectTypeSMaterial®#CountIh*PropertyTemplateSFbxSurfacePhong[*Properties707$1PSShadingModelSKStringSSSPhongl$'PS
-MultiLayerSboolSSI¼$BPS
-EmissiveColorSColorSSADDDü$2PSEmissiveFactorSNumberSSADð?K%APSAmbientColorSColorSSADš™™™™™É?Dš™™™™™É?Dš™™™™™É?Š%1PS
-AmbientFactorSNumberSSADð?Ù%APSDiffuseColorSColorSSADš™™™™™é?Dš™™™™™é?Dš™™™™™é?&1PS
-DiffuseFactorSNumberSSADð?g&APSBumpSVector3DSVectorSDDD»&FPS	NormalMapSVector3DSVectorSDDDü&3PS
-BumpFactorSdoubleSNumberSDð?O'EPSTransparentColorSColorSSADDD“'6PSTransparencyFactorSNumberSSADî'MPSDisplacementColorSColorRGBSColorSDDD7(;PSDisplacementFactorSdoubleSNumberSDð?˜(SPSVectorDisplacementColorSColorRGBSColorSDDDç(APSVectorDisplacementFactorSdoubleSNumberSDð?7)BPS
-SpecularColorSColorSSADš™™™™™É?Dš™™™™™É?Dš™™™™™É?w)2PSSpecularFactorSNumberSSADð?º)5PSShininessExponentSNumberSSAD4@*DPSReflectionColorSColorSSADDDN*4PSReflectionFactorSNumberSSADð?»,
-
-ObjectTypeSGeometry°*CountI®,PropertyTemplateSFbxMesh¡,Properties70A+APSColorSColorRGBSColorSDš™™™™™é?Dš™™™™™é?Dš™™™™™é?“+DPSBBoxMinSVector3DSVectorSDDDå+DPSBBoxMaxSVector3DSVectorSDDD",/PSPrimary VisibilitySboolSSIZ,*PS
-Casts ShadowsSboolSSI”,,PSReceive ShadowsSboolSSIóGObjects8(GeometryL€E§/SFbxMeshGeometrySMeshoTA'Verticesd4'xu{ØUuïGÁà	blå6@¸B…€Ðt^‹Gn% ÏiT*á
-DyŠÆr	¶6J-9ÜFä’¢H*
-…`p,J£&i4¢S±¶V¥æiEbUÎïÝk}ö¼û»çõ?|ùþÖ¬½gí5{.oQý{^R“ÿ­úàEáŸ¹£Ãäÿ*¯>çßÆxuÙ/žþïÐ—›þvÔ®>ðâ‘[_;æSmþú¢1ÞÜ·oò»íÔÃö»âWŸvj«‹§}ÛS8d¦?¼_ðç‰·~ë /wþéÁ3õ‘ßpeâÓ•Û˜þª?M}œ·wßžòõÛ}}Ó#âo¼Ÿ÷ÙÄ¿ú¥¦ÿè‰Oä+ïMx½öúÃÕ¿ÚÁô§]”øD¾á¯^¯Ý1è5?‘K~ŠÇ^ôÅÂ+x·íÊ„·Só‚~d¼Þ?Ë8>2Žkœ“q4.qNÆÑx>ŽŒcà#ã¸æy2^¦ÏÇÑx>Ž£þ“qõŸŒ—éóq4žcàšŸÉ8—üLÆ+ð‘q|dÏÇq‰ùdç¯q=‹U§›>«WÆµÎD½øÃgó×:Snºaôwáú»pêd{Ù^¡Þ–øw¡^U~I¨{Ê‹=¶,
-óÚõÅa§…ßU=}s‡ùSÏë«î{rºnÃ©·ÊÉƒrâ‡×_7ÿúò¿²xŽüŸpžÖ›ŒwK/ÇUø¸('?ÊÉœøËc_tòtàõÜGýáêOýï—ŸòŒ¼^¸Í¡3ýÛ)›o¹Þ¸ê»¥ïJæþp‡|æÇuã¨O=×¸úÀÉ[ñ’…a^õ×„üô¯úî7¦Ç}àüáÍLß¬^ôíÇžã/oo¯ÿhëÿâÓ¦¯~jã‹ÏÀ-ðî{¦ïNÈüOy{ÈÆÿÏ«Bþ•×¹ Äoöxgˆ¿ŸÈÅŽOuÖÞiŸsÁªÇ§óç¼(„s^(gáÝîÿ/–çzßí,o?0Þ½Ôò@~ŠÈW&ãR.ÚÇêÃ®—…¼q)g>(g>À9TŸMßß='ÄùQ8u}qÖÚÑøáê§Tê3œó·Ûá‡y¥\}ÐÏæÓÜ¶˜‡ƒOÚ*§¯€Ç>ÐûÃŒûº¹ô‡Êé+"—þP9}<öÞWdÜû
-8} }‹rõ} ÷è#÷¾û@ÉOä’ú@ú
-|àôpí¾•Õ
-ïó•ŒcÐÓÿ ×þ0ré•Œcð×
