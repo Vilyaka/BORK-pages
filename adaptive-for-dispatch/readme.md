@@ -9,11 +9,11 @@ ___
 
 
 ### Slate-(Responsive-Email-Templates)-by-Litmus
-* <a href="https://vilyaka.github.io/adaptive-for-dispatch/Slate-(Responsive-Email-Templates)-by-Litmus/Newsletter/newsletter.html">fluid</a>
-* <a href="https://vilyaka.github.io/adaptive-for-dispatch/Slate-(Responsive-Email-Templates)-by-Litmus/Product-Announcement/product-announcement.html">hybrid</a>
-* <a href="https://vilyaka.github.io/adaptive-for-dispatch/Slate-(Responsive-Email-Templates)-by-Litmus/Receipt/receipt.html">responsive</a>
-* <a href="https://vilyaka.github.io/adaptive-for-dispatch/Slate-(Responsive-Email-Templates)-by-Litmus/Simple-Announcement/simple-announcement.html">responsive</a>
-* <a href="https://vilyaka.github.io/adaptive-for-dispatch/Slate-(Responsive-Email-Templates)-by-Litmus/Stationery/stationery.html">responsive</a>
+* <a href="https://vilyaka.github.io/adaptive-for-dispatch/Slate-(Responsive-Email-Templates)-by-Litmus/Newsletter/newsletter.html">newsletter</a>
+* <a href="https://vilyaka.github.io/adaptive-for-dispatch/Slate-(Responsive-Email-Templates)-by-Litmus/Product-Announcement/product-announcement.html">Product announcement</a>
+* <a href="https://vilyaka.github.io/adaptive-for-dispatch/Slate-(Responsive-Email-Templates)-by-Litmus/Receipt/receipt.html">receipt</a>
+* <a href="https://vilyaka.github.io/adaptive-for-dispatch/Slate-(Responsive-Email-Templates)-by-Litmus/Simple-Announcement/simple-announcement.html">Simple announcement</a>
+* <a href="https://vilyaka.github.io/adaptive-for-dispatch/Slate-(Responsive-Email-Templates)-by-Litmus/Stationery/stationery.html">stationery</a>
 
 
 ### responsive-html-email-template-master
