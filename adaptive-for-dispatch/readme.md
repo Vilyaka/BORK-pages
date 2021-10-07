@@ -18,3 +18,4 @@ ___
 
 ### responsive-html-email-template-master
 * <a href="https://vilyaka.github.io/adaptive-for-dispatch/responsive-html-email-template-master/letter.html">letter</a>
+* <a href="https://vilyaka.github.io/adaptive-for-dispatch/responsive-html-email-template-master/">Сборная документация</a>
