@@ -8,6 +8,4 @@
 
 ___
 
-### Адаптивные шаблоны писем
-
-<a href="https://vilyaka.github.io/adaptive-for-dispatch/">Шаблоны</a>
+### <a href="https://vilyaka.github.io/adaptive-for-dispatch/">Адаптивные шаблоны писем</a>
