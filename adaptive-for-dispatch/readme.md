@@ -17,5 +17,4 @@ ___
 
 
 ### responsive-html-email-template-master
-* <a href="https://vilyaka.github.io/adaptive-for-dispatch/responsive-html-email-template-master/index.html">index</a>
-* <a href="https://vilyaka.github.io/adaptive-for-dispatch/responsive-html-email-template-master/README.md">README</a>
+* <a href="https://vilyaka.github.io/adaptive-for-dispatch/responsive-html-email-template-master/letter.html">letter</a>
